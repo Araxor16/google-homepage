@@ -1,4 +1,33 @@
+/* Useful code for checking boxes*/
+/*
 * {
 	border: 1px solid rgba(0, 0, 0, 0.3);
 	box-sizing: border-box;
+}
+*/
+
+.images {
+	/*Trying to center the logo.
+	FYI 100% wrong way of doing this*/
+	position: absolute;
+	top: 235px;
+	left: 600px;
+
+}
+
+.search {
+	position: absolute;
+	top: 450px;
+	left: 650px;
+	width: 470px;
+
+	/*stretch searchbar*/
+
+}
+
+.submit {
+	position: absolute;
+	top: 500px;
+	left: 700px
+
 }
